@@ -1,0 +1,45 @@
+{
+    "Generals": [
+        {
+        "id": 0,
+        "name": "Tergrid, God of Fright",
+        "Set": "Keldeim",
+        "fullcard": "https://scryfall.com/card/khm/112/tergrid-god-of-fright-tergrids-lantern",
+        "description": "She is a stax type general. You can either focus on hand discard, sacrifice, or both.",
+        "color": "black",
+        "Key card":[
+            {
+                "cardid":"0",
+                "name":"Death Cloud",
+                "cost": "xBBB",
+                "line1":"https://scryfall.com/card/mma/76/death-cloud",
+                "set": "Dark Steel"
+ 
+            }
+        ]
+ 
+         },
+        {
+            "id": 1,
+            "name": "Kroxa, Titan of Death's Hunger",
+            "Set": "Theros Beyond Death",
+            "fullcard": "https://scryfall.com/card/m12/218/sundial-of-the-infiniter",
+            "description": "He is a wonderful commander for people who enjoy grinding their opponent down and other shenanigans.",
+            "color": "black + red",
+            "Key card":[
+                {
+                    "cardid":"0",
+                    "name":"Sundial of the Infinite",
+                    "cost": "2",
+                    "line1":"https://scryfall.com/card/mma/76/death-cloud",
+                    "set": "Magic 2012"
+    
+                }
+            ]
+    
+            }
+ 
+ 
+        
+          ]
+          }
